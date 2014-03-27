@@ -1,0 +1,16 @@
+Struct ledState{
+  int ledID;
+  int ledColor;
+  int ledBrightness;
+
+}
+
+
+
+
+
+
+
+
+Struct ledState  myLedString[49];
+
