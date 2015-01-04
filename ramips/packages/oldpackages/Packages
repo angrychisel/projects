@@ -1,0 +1,13 @@
+Package: avrdude
+Version: 6.0.1-1
+Depends: libc, libncurses, libreadline, libusb-compat, libftdi
+Source: feeds/oldpackages/utils/avrdude
+Section: utils
+Architecture: ramips_24kec
+Installed-Size: 165462
+Filename: avrdude_6.0.1-1_ramips_24kec.ipk
+Size: 166004
+MD5Sum: 88a206696df88e0b16d590fea6be6032
+SHA256sum: 0c2e419292f4bb205dfe946ab5d5f518053dfbeb72efa94f3020302be17f58d8
+Description:  AVRDUDE is a full featured program for programming Atmel's AVR CPU's.
+

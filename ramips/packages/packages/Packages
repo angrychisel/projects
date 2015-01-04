@@ -1,0 +1,18 @@
+Package: libftdi
+Version: 0.20-1
+Depends: libc, libusb-compat
+Source: feeds/packages/libs/libftdi
+License: LGPL-2.0
+LicenseFiles: COPYING.LIB
+Section: libs
+Maintainer: Álvaro Fernández Rojas <noltari@gmail.com>
+Architecture: ramips_24kec
+Installed-Size: 9767
+Filename: libftdi_0.20-1_ramips_24kec.ipk
+Size: 10670
+MD5Sum: b7d344affe09dccfa919f7cbc10035a4
+SHA256sum: d07040ec6928d1b04502d6e1d37f40078a350976ec7953879d8f301420d8b399
+Description:  libFTDI - FTDI USB driver with bitbang mode
+ libFTDI is an open source library to talk to FTDI chips: FT232BM, FT245BM, FT2232C, FT2232H, FT4232H, FT2232D and FT245R, including the popular bitbang mode. 
+ The library is linked with your program in userspace, no kernel driver required.
+

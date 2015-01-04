@@ -1,0 +1,9 @@
+460aa5ab29c9596ba7055414dcbefc68 *openwrt-ramips-rt305x-mpr-a2-initramfs-uImage.bin
+7bc557a73d75f849aeb55d4c88676435 *openwrt-ramips-rt305x-mpr-a2-squashfs-sysupgrade.bin
+7557ee27a4a70f3d30c5c638f1d4dff5 *openwrt-ramips-rt305x-root.squashfs
+c436912a6b4305cad3fbfd52db0834e3 *openwrt-ramips-rt305x-uImage-initramfs.bin
+de6d2bb80cf5108c55cdcb82efa512aa *openwrt-ramips-rt305x-uImage.bin
+d65c89efee015c41b05769a820691d59 *openwrt-ramips-rt305x-vmlinux-initramfs.bin
+062790e8c3d98130314e85ff204192e6 *openwrt-ramips-rt305x-vmlinux-initramfs.elf
+6ffc353b631f447ad7b1d0857459dc62 *openwrt-ramips-rt305x-vmlinux.bin
+0c72f61ca5567484e2c7c1e0917cbc4e *openwrt-ramips-rt305x-vmlinux.elf
